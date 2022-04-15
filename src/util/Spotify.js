@@ -1,7 +1,7 @@
 //import { SearchBar } from "../Components/SearchBar/SearchBar";
 
 const clientID = '5b99163560844ec494551f2b598fe08d';
-const redirectUri = "http://localhost:3000/";
+const redirectUri = "https://keen-starlight-c829cd.netlify.app/";
 
 
 let accessToken;
